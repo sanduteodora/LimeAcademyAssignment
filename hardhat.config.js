@@ -55,7 +55,7 @@ task("deploy-testnets", "Deploys contract on a provided network")
     networks: {
       rinkeby: {
         url: "https://rinkeby.infura.io/v3/40c2813049e44ec79cb4d7e0d18de173",
-        accounts: ['f917d27670c8eb67120b641ed01bd4c1df7b98a7f06fb3e422734d00e43ef36a']
+        accounts: ['']
       },
   }
 };
